@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id = "header" align = "center">
-  <a href="https://www.linkedin.com/in/proyeteiakanda/">
-    <img src = "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = "100" />
-  </a>
-</div>
 
 <!--<div id = "badges">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
