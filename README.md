@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a Computer Science Student at McMaster University aspiring to be a Software Engineer.
-- 💻: I am currently working on a major start-up project in which involves building a full-stack web application with real time client-based communication. I am contributing to both frontend and backend.
+- 🏫 I’m a 2nd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
+- 💻: I am currently working on a major start-up project which involves building a full-stack web application with real time event client-based communication. I am contributing to both frontend and backend.
 
 - :seedling: Exploring Back-end development.
 
-- 🧠: In my free time, I develop side projects and learn new languages.
+- 🧠: In my free time, I develop side projects (games and web applications), learn new languages and design various media.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
@@ -37,10 +37,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Wordpress" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
