@@ -19,11 +19,12 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- :telescope: I’m a Computer Science Student at McMaster University. I want to be a Software Engineer and currently building side projects for building web applications where I am contributing to frontend and backend.
+- 🏫 I’m a Computer Science Student at McMaster University aspiring to be a Software Engineer.
+- 💻: I am currently working on a major start-up project in which involves building a full-stack web application with real time client-based communication. I am contributing to both frontend and backend.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Back-end development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🧠: In my free time, I develop side projects and learn new languages.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
