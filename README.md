@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 </div>
 
 <img align="left" alt="Proyetei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=proyetei&show_icons=true&theme=radical">
+
+![](https://komarev.com/ghpvc/?username=proyetei)
