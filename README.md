@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 2nd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
-- 💻: I am currently working on a major start-up project which involves building a full-stack web application with real time event client-based communication. I am contributing to both frontend and backend.
+- 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
+- 💻: I am currently on a contract job as a Full-stack Web Developer. Additionally, I am also the co-founder of my startup AMIMA.
 
-- :seedling: Exploring Back-end development.
+- :seedling: Exploring Back-end development and trying to master JavaScript.
 
 - 🧠: In my free time, I develop side projects (games and web applications), learn new languages and design various media.
 
