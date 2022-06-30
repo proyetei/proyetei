@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 </div>-->
 
 - 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
-- 💻: I am currently on a contract job as a Full-stack Web Developer. Additionally, I am also the co-founder of my startup AMIMA.
+- 💻: I am currently on a contract job working as a Full-stack Web Developer.
+- ⚡: Additionally, I am also the co-founder of my startup AMIMA.
 
 - :seedling: Exploring Back-end development and trying to master JavaScript.
+- 🤔: I plan to master SQL, Ruby and Python as well after JavaScript. 
 
 - 🧠: In my free time, I develop side projects (games and web applications), learn new languages and design various media.
 
