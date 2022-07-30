@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 </div>-->
 
 - 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
-- 💻: I am currently on a contract job working as a Full-stack Web Developer.
+
+- 💻: I am currently working as a Full-stack Developer at ViewingParty.
+
 - ⚡: Additionally, I am also the co-founder of my startup AMIMA.
 
-- :seedling: Exploring Back-end development and trying to master JavaScript.
-- 🤔: I plan to master SQL, Ruby and Python as well after JavaScript. 
+- 🤔: Exploring back-end development and learning Laravel, PHP, SQL, and Ruby on the side. 
 
-- 🧠: In my free time, I develop side projects (games and web applications), learn new languages and design various media.
+- 🧠: In my free time, I develop side projects (games and web applications), learn new languages and draw.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
