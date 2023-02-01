@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 - 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
 
-- 💻: I am currently working as a Full-stack Developer at ViewingParty.
+- 💻: I am currently a Fullstack Developer Intern for Canada Post for Winter 2023.
 
-- ⚡: Additionally, I am also the co-founder of my startup AMIMA.
+- ⚡: Currently looking for Summer 2023 internships and finding possibilities to grow.
 
-- 🤔: Exploring back-end development and learning Laravel, PHP, SQL, and Ruby on the side. 
+- 🤔: Exploring back-end development and quality assurance 
 
-- 🧠: In my free time, I develop side projects (games and web applications), learn new languages and draw.
+- 🧠: In my free time, I work on Leetcode problems and develop side projects
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
