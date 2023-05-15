@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
 
-- 💻: I am currently a Fullstack Developer Intern for Canada Post for Winter 2023.
+- 💻: I am currently a Software Quality Engineer Intern at TD Bank
 
-- ⚡: Currently looking for Summer 2023 internships and finding possibilities to grow.
+- ⚡: Looking for Fall 2023 internships and finding possibilities to grow.
 
 - 🤔: Exploring back-end development and quality assurance 
 
