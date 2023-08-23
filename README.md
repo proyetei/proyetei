@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 💻: I am currently a Software Quality Engineer Intern at TD Bank
 
-- ⚡: Looking for Fall 2023 internships and finding possibilities to grow.
+- ⚡: Looking for Summer 2024 internships and finding possibilities to grow.
 
-- 🤔: Exploring back-end development and quality assurance 
+- 🤔: Exploring back-end development and software testing
 
 - 🧠: In my free time, I work on Leetcode problems and develop side projects
 
