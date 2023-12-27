@@ -19,13 +19,13 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 3rd year Computer Science Student at McMaster University aspiring to be a Software Engineer.
+- 🏫 I’m a 3rd year Computer Science Co-op Student at McMaster University! 
 
-- 💻: I am currently a Software Quality Engineer Intern at TD Bank
+- 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)! 
 
 - ⚡: Looking for Summer 2024 internships and finding possibilities to grow.
 
-- 🤔: Exploring back-end development and software testing
+- 🤔: Exploring various tech stacks to keep myself updated with the latest technologies. 
 
 - 🧠: In my free time, I work on Leetcode problems and develop side projects
 
