@@ -23,34 +23,45 @@ Here are some ideas to get you started:
 
 - 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)! 
 
-- ⚡: Looking for Summer 2024 internships and finding possibilities to grow.
-
 - 🤔: Exploring various tech stacks to keep myself updated with the latest technologies. 
 
 - 🧠: In my free time, I work on Leetcode problems and develop side projects
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
-### :hammer_and_wrench: Languages and Tools :
+## My Tech Stack
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Wordpress" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  <div>
+    <!------------ Languages ----------------->
+    <p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,html" />
+      </a>
+    </p>
+    <!---------------------- Frameworks ---------------------->
+    <p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,selenium" />
+      </a>
+    </p>
+    <!-------------------- Styling -------------------------->
+    <p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css,tailwind,materialui,styledcomponents" />
+      </a>
+    </p>
+    <!---------------------- Database & Deployment ---------------------->
+    <p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,planetscale,vercel" />
+      </a>
+    </p>
+    <!---------------------- Development Tools ---------------------->
+    <p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma" />
+      </a>
+    </p>
+  </div>
 
-<img align="left" alt="Proyetei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=proyetei&show_icons=true&theme=radical">
-
-![](https://komarev.com/ghpvc/?username=proyetei)
+#
