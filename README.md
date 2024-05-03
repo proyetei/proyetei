@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 - 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)! 
 
-- 🤔: Exploring various tech stacks to keep myself updated with the latest technologies. 
 
-- 🧠: In my free time, I work on Leetcode problems and develop side projects
+- 🧠: I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
