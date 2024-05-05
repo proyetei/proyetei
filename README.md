@@ -1,4 +1,5 @@
-### Hi there, I'm Proyetei! 👋
+
+### Hi there, I'm Proyetei! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <!--
 **proyetei/proyetei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +20,9 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University! 
+- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University
 
-- 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)! 
-
+- 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)
 
 - 🧠: I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
