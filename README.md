@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University
+- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University and Software Engineer at ADP Canada.
 
 - 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)
 
