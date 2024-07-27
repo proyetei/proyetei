@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University and Software Engineer at ADP Canada.
+- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University and I'm looking for full time positions in Software Engineering!
 
-- 💻: Previously I have interned at TD Bank (QE) and Canada Post (SWE)
+- 💻: I was a previous Software Engineeer @ ADP, TD Bank & Canada Post
 
 - 🧠: I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
