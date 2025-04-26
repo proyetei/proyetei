@@ -29,39 +29,57 @@ Here are some ideas to get you started:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
 
-## My Tech Stack
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+</p>
 
-  <div>
-    <!------------ Languages ----------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,html" />
-      </a>
-    </p>
-    <!---------------------- Frameworks ---------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,selenium" />
-      </a>
-    </p>
-    <!-------------------- Styling -------------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,tailwind,materialui,styledcomponents" />
-      </a>
-    </p>
-    <!---------------------- Database & Deployment ---------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,planetscale,vercel" />
-      </a>
-    </p>
-    <!---------------------- Development Tools ---------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma" />
-      </a>
-    </p>
-  </div>
+---
 
-#
+### 🛠️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### ☁️ Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 🧪 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JEST-C21325?logo=jest&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### ⚙️ DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" />
+</p>
