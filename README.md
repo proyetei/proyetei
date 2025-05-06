@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡: Personal website -> https://proyetei.com/
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
-
+## My Teck Stack
 ### 🖥️ Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
