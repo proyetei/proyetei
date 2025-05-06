@@ -62,6 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
 </p>
 
 ---
