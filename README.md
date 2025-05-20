@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
 </div>-->
 
-- 🏫 I’m a 4th year Computer Science Co-op Student at McMaster University and I'm looking for full time positions in Software Engineering!
+- 🏫 I'm a New Grad of McMaster University’s Computer Science Co-op program, currently seeking full-time Software Engineering opportunities!
 
 - 💻: I was a previous Software Engineeer @ ADP, TD Bank & Canada Post
 
