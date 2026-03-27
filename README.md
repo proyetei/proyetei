@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 💻: I was a previous Software Engineeer @ ADP, TD Bank & Canada Post
 
 - 🧠: I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
-- ⚡: Personal website -> https://proyetei.com/
+- ⚡: Personal website -> [https://proyetei.com/](https://portfolio-proyeteis-projects.vercel.app/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Proyetei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proyeteiakanda/)
-## My Teck Stack
+## My Technology Stack
 ### 🖥️ Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
